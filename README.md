@@ -11,4 +11,16 @@ A sign up page is provided that allows users /customers to sign up first and aft
 The system allows  customers to increment or decrement the number of items (food) they have selected after that from the cart page, customers can click on to submit their address details where delivery needs to be done. 
 The system Admin is provided with order details on the database, that states where the delivery needs to be made. Admin has a page(localhost:3000/addproducts) that allows them to add new products to the firebase database
 
+Dependencies:
+    "bootstrap": "^5.3.2",
+    "firebase": "^10.7.1",
+    "get-google-fonts": "^1.2.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-icons-kit": "^2.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.0",
+    "react-toastify": "^9.1.3",
+    "web-vitals": "^3.5.0"
+
 A usecase diagram is provided for easy understanding of the App
